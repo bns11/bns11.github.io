@@ -8,5 +8,4 @@ img {
     height: auto;
     display: block;
     opacity: 0.5;
-    image-rendering: -webkit-backface-visibility: hidden;
 }
