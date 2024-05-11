@@ -9,21 +9,3 @@ img {
     display: block;
     opacity: 0.5;
 }
-/* 画像の設定 */
-
-img {
-display: block;
-margin: 0 auto;
-}
-
-/* 背景色などの設定 */
-
-body {
-background-color: #f2f2f2;
-}
-
-html, body {
-height: 100%;
-margin: 0;
-padding: 0;
-}
