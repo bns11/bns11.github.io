@@ -1,8 +1,6 @@
 
 /* レスポンシブデザインの設定 */
 
-@media screen and (max-width: 768px) {
-/* 画面幅が768px以下の場合 */
 img {
     width: 100vw;
     margin-left: calc(-50vw + 50%);
@@ -11,8 +9,6 @@ img {
     display: block;
     opacity: 0.5;
 }
-}
-
 /* 画像の設定 */
 
 img {
