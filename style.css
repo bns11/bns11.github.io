@@ -4,8 +4,11 @@
 @media screen and (max-width: 768px) {
 /* 画面幅が768px以下の場合 */
 img {
-width: 100%;
-height: auto;
+    margin-left: calc(-50vw + 50%);
+    max-width: none;
+    height: auto;
+    display: block;
+    opacity: 0.5;
 }
 }
 
