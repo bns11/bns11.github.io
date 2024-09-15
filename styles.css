@@ -32,3 +32,11 @@ html, body {
     object-fit: cover;
 }
 
+/* メディアクエリ: スマートフォン向け */
+@media screen and (max-width: 768px) {
+    .overlay {
+        bottom: 10%; /* スマートフォンでは下からの位置を調整 */
+        width: 80%; /* スマートフォンでは幅をさらに狭める */
+    }
+}
+
