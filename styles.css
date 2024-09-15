@@ -24,12 +24,11 @@ html, body {
 
 .overlay {
     position: absolute;
-    top: 1260%;
-    left: 0;
-    /* transform: translateX(-50%); 中央揃えの微調整 */
-    width: 100%;
-    /* height: auto; */
-    object-fit: cover;
+    bottom: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    max-width: 500px;
 }
 
 /* メディアクエリ: スマートフォン向け */
