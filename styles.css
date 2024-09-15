@@ -38,7 +38,7 @@ html, body {
     }
 }
 
-@media screen and (min-width:376px) and (max-width:390px) {
+@media screen and (min-width:376px) and (max-width:394px) {
     .overlay {
         position:absolute;
         top:2280px;
