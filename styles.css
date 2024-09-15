@@ -31,4 +31,16 @@ html, body {
     /* height: auto; */
     object-fit: cover;
 }
+@media screen and (max-width: 768px) {
+    .overlay {
+        position:absolute;
+        top:2200px;
+    }
+}
 
+@media screen and (max-width:932px) {
+    .overlay {
+        position:absolute;
+        top:2520px;
+    }
+}
