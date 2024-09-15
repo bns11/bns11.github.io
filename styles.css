@@ -31,14 +31,14 @@ html, body {
     /* height: auto; */
     object-fit: cover;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 375px) {
     .overlay {
         position:absolute;
         top:2200px;
     }
 }
 
-@media screen and (min-width: 768px) and (max-width:932px) {
+@media screen and (min-width:376px) and (max-width:390px) {
     .overlay {
         position:absolute;
         top:2280px;
