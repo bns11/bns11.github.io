@@ -31,7 +31,7 @@ html, body {
 }
 
 /* スマートフォン向けのメディアクエリ */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
     .overlay {
         bottom: 50%;
         width: 50%;
